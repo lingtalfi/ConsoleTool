@@ -8,7 +8,8 @@ A tool to help creating console programs.
 
 
 
-This is part of the [universe framework](https://github.com/lingtalfi/universe-naive-importer).
+This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
+
 
 
 
@@ -16,6 +17,9 @@ This is part of the [universe framework](https://github.com/lingtalfi/universe-n
 
 How to install?
 -------------------
+
+Using the [universe naive importer](https://github.com/lingtalfi/universe-naive-importer):
+
 ```bash
 cd /path/to/myapp
 uni import ConsoleTool
