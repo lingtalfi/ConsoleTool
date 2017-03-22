@@ -50,3 +50,12 @@ if (true === ConsoleTool::booleanCapture(false)) {
 ```
  
 
+
+
+
+History Log
+------------------
+    
+- 1.0.0 -- 2017-03-22
+
+    - initial commit
