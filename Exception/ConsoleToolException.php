@@ -2,7 +2,7 @@
 
 
 
-namespace ConsoleTool\Exception;
+namespace Ling\ConsoleTool\Exception;
 
 
 class ConsoleToolException extends \Exception{

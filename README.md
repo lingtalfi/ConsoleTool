@@ -22,7 +22,7 @@ Using the [universe naive importer](https://github.com/lingtalfi/universe-naive-
 
 ```bash
 cd /path/to/myapp
-uni import ConsoleTool
+uni import Ling/ConsoleTool
 ```
 
 
@@ -32,7 +32,7 @@ How to use?
 ```php
 <?php
 
-use ConsoleTool\ConsoleTool;
+use Ling\ConsoleTool\ConsoleTool;
 
 
 

@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ConsoleTool;
+namespace Ling\ConsoleTool;
 
 
-use ConsoleTool\Exception\ConsoleToolException;
+use Ling\ConsoleTool\Exception\ConsoleToolException;
 
 class ConsoleTool
 {
